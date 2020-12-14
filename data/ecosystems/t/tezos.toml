@@ -11,6 +11,7 @@ github_organizations = [
   "https://github.com/tezbox",
   "https://github.com/tezbridge",
   "https://github.com/tezos",
+  "https://github.com/simplestaking"
 ]
 
 # Repositories
@@ -1600,6 +1601,22 @@ url = "https://github.com/yugasun/tezos-sign"
 
 [[repo]]
 url = "https://github.com/zastrin/tezos-voting-dapp"
+
+[[repo]]
+url = "https://github.com/simplestaking/tezedge"
+
+[[repo]]
+url = "https://github.com/simplestaking/tezedge-debugger"
+
+[[repo]]
+url = "https://github.com/simplestaking/tezedge-explorer"
+
+[[repo]]
+url = "https://github.com/simplestaking/tezedge-firewall"
+
+[[repo]]
+url = "https://github.com/simplestaking/tezos-dissector"
+
 
 [[repo]]
 url = "https://gitlab.com/camlcase-dev/bs-tezos"
